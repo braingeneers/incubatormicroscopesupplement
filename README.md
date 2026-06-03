@@ -13,4 +13,6 @@ code/ - code for programming and operating the microscope in various configurati
 
 data/ - contains the source data for the thermal validation experiment described in Section 2.2.1 of the manuscript
 
+The images for some of the experiments shown in the main manuscript can be found in a OSF repository at: https://osf.io/6wq7r
+
 The contents of this repository are licensed under the Creative Commons CC BY NC license. More information here: https://creativecommons.org/licenses/by-nc/4.0/
